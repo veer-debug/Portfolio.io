@@ -1,0 +1,118 @@
+.gitbag {
+  width: 80%;
+  margin: auto;
+}
+
+.gitbag img {
+  width: 100%;
+}
+
+.gtitle {
+  margin: auto;
+  width: 80%;
+  
+  font-weight: bold;
+  margin-top: 60px;
+  text-transform: uppercase;
+  text-align: left;
+}
+.gtitle>span{
+  border-bottom: 2px dotted;
+}
+.gtitle2>span{
+  border-bottom: 2px dotted;
+}
+.gtitle2 {
+  margin: auto;
+  width: 100%;
+
+  font-weight: bold;
+  margin-top: 60px;
+  text-transform: uppercase;
+  text-align: right;
+}
+.gitstaus {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  gap: 30px;
+  width: 100%;
+
+  justify-content: center;
+}
+
+.imgdiv {
+  width: 100%;
+  height: auto;
+}
+
+.imgdiv > img {
+  width: 100%;
+  height: 100%;
+}
+
+.divtool {
+  display: flex;
+
+  align-items: center;
+  justify-content: space-evenly;
+  min-width: 70%;
+  margin: auto;
+  margin-top: 30px;
+}
+.divtool>h3{
+  margin-top: 7px;
+}
+.divtool span {
+  height: fit-content;
+  margin-top: 0px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.divtool > span > img {
+  width: 90%;
+  height: 70px;
+  margin: auto;
+
+  border-radius: 15px;
+}
+
+.git_calender {
+  padding-top: 30px;
+}
+@media screen and (min-width: 200px) and (max-width: 490px) {
+  .git_calender .react-activity-calendar__count {
+    font-size: 10px;
+  }
+
+  .git_calender .react-activity-calendar__legend-colors {
+    font-size: 8px;
+  }
+  .git_calender .react-activity-calendar__legend-colors > svg {
+    width: 50%;
+    height: 30%;
+  }
+
+  .gitstaus {
+    display: grid;
+    width: 100%;
+    gap: 15px;
+    justify-content: center;
+  }
+
+  .divtool {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .git_calender {
+    padding-top: 10px;
+  }
+}
