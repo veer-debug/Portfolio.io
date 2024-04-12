@@ -40,7 +40,7 @@ export const Education = () => {
                   <div className="ebox">
                     <h2>Intermediate, Sadhana Devi Vidyapith </h2>
                     <h2>
-                      <span>Mar 2018 - Mar 2020</span> | Samastipur , Bihar
+                      <span>Mar 2018 - Mar 2020</span> | Bihar , India
                     </h2>
                   </div>
                 </div>
