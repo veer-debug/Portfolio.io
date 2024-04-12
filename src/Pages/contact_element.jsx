@@ -165,7 +165,7 @@ export default function Contactelement() {
 
         <Image margin="auto" marginTop="30px" src="https://i.ibb.co/RvjwTnT/105-1052182-call-us-contact-us-images-png-removebg-preview.png"/>
         <Flex justifyContent="center"  >
-         <a href="https://www.facebook.com/mr.ashutosh22/" target="_blank">
+         <a href="https://www.facebook.com/profile.php?id=100021945492319" target="_blank">
           <IconButton
             aria-label="facebook"
             variant="ghost"
@@ -175,7 +175,7 @@ export default function Contactelement() {
             icon={<MdFacebook size="28px" />}
           />
           </a>
-          <a href="https://github.com/ranveer79" target="_blank">
+          <a href="https://github.com/veer-debug" target="_blank">
           <IconButton
             aria-label="github"
             variant="ghost"

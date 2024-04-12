@@ -7,77 +7,135 @@ export const Slider = () => {
     <>
          <div className="slider">
                 <div className="slider-track">
-                    
+                        <div className="slide">
+                            <img src="https://cdn-icons-png.freepik.com/256/5968/5968350.png?ga=GA1.1.1938664708.1708116898&" alt="" />
+                            <h3>Python</h3>
+                        </div>
                         <div className="slide">
                         <img src="https://www.ujudebug.com/wp-content/uploads/2022/07/html-logo-transparent.png" alt="" />
                         <h3>HTML</h3>
                         </div>
-                      <div className="slide">
-                        <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="" />
-                        <h3>javascript</h3>
-                    </div>
                         <div className="slide">
                          <img src="https://avatars.githubusercontent.com/css?size=460" alt="" />
                         <h3>CSS</h3>
                         </div>
+                        <div className="slide">
+                         <img src="https://cdn-icons-png.freepik.com/256/6132/6132222.png?ga=GA1.1.1938664708.1708116898&" alt="" />
+                        <h3>C++</h3>
+                        </div>
+                        <div className="slide">
+                         <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="" />
+                        <h3>C</h3>
+                        </div>
                  <div className="slide">
-                       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="4"/>
-                       <h3>React</h3>
+                       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="4"/>
+                       <h3>Flask</h3>
                     </div>
                 <div className="slide">
-                         <img src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png" alt="5"/>
-                        <h3>Bootstrap</h3>
+                         <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="5"/>
+                        <h3>MySql</h3>
                  </div>
                  <div className="slide">
-                         <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="6"/>
-                         <h3>MongoDB</h3>
+                         <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="6"/>
+                         <h3>Scikit Learn</h3>
                  </div>
                         <div className="slide">
-                        <img src="https://www.peopledatalabs.com/_next/image?url=%2Fimages%2Flanguages%2Fjavascript.png&w=3840&q=75" alt="7"/>
-                      <h3>nodejs</h3>
+                        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="7"/>
+                      <h3>SeaBorn</h3>
                         </div>
                         <div className="slide">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="8"/>
+                            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="8"/>
                          
-                            <h3>ExpressJS</h3>
+                            <h3>OpenCv</h3>
                        
                         </div>
-                      
+                        <div className="slide">
+                            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="8"/>
+                         
+                            <h3>Pandas</h3>
+                       
+                        </div>
+                        <div className="slide">
+                            <img src="https://numpy.org/images/logo.svg" alt="8"/>
+                         
+                            <h3>Numpy</h3>
+                       
+                        </div>
+                        <div className="slide">
+                            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="8"/>
+                         
+                            <h3>Git</h3>                       
+                        </div>
+                        <div className="slide">
+                            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="8"/>
+                         
+                            <h3>Linux</h3>                       
+                        </div>
                         {/* <!-- -------double --> */}
                         <div className="slide">
-                            <img src="https://www.ujudebug.com/wp-content/uploads/2022/07/html-logo-transparent.png" alt="1"/>
-                            <h3>HTML</h3>
-                            </div>
-                          <div className="slide">
-                            <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="2"/>
-                            <h3>javascript</h3>
+                            <img src="https://cdn-icons-png.freepik.com/256/5968/5968350.png?ga=GA1.1.1938664708.1708116898&" alt="" />
+                            <h3>Python</h3>
                         </div>
-                          <div className="slide">
-                            <img src="https://avatars.githubusercontent.com/css?size=460" alt="3"/>
-                            <h3>CSS</h3>
+                        <div className="slide">
+                        <img src="https://www.ujudebug.com/wp-content/uploads/2022/07/html-logo-transparent.png" alt="" />
+                        <h3>HTML</h3>
                         </div>
-                            <div className="slide">
-                           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="4"/>
-                           <h3>React</h3>
+                        <div className="slide">
+                         <img src="https://avatars.githubusercontent.com/css?size=460" alt="" />
+                        <h3>CSS</h3>
                         </div>
-                            <div className="slide">
-                             <img src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png" alt="5"/>
-                            <h3>Bootstrap</h3>
-                            </div>
-                            <div className="slide">
-                             <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="6"/>
-                             <h3>MongoDB</h3>
-                            </div>
-                            <div className="slide">
-                            <img src="https://www.peopledatalabs.com/_next/image?url=%2Fimages%2Flanguages%2Fjavascript.png&w=3840&q=75" alt="7"/>
-                          <h3>nodejs</h3>
+                        <div className="slide">
+                         <img src="https://cdn-icons-png.freepik.com/256/6132/6132222.png?ga=GA1.1.1938664708.1708116898&" alt="" />
+                        <h3>C++</h3>
                         </div>
-                            <div className="slide">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="8"/>
-                             
-                                <h3>ExpressJS</h3>
-                           
-                            </div>
+                        <div className="slide">
+                         <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="" />
+                        <h3>C</h3>
+                        </div>
+                 <div className="slide">
+                       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="4"/>
+                       <h3>Flask</h3>
+                    </div>
+                <div className="slide">
+                         <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="5"/>
+                        <h3>MySql</h3>
+                 </div>
+                 <div className="slide">
+                         <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="6"/>
+                         <h3>Scikit Learn</h3>
+                 </div>
+                        <div className="slide">
+                        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="7"/>
+                      <h3>SeaBorn</h3>
+                        </div>
+                        <div className="slide">
+                            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="8"/>
+                         
+                            <h3>OpenCv</h3>
+                       
+                        </div>
+                        <div className="slide">
+                            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="8"/>
+                         
+                            <h3>Pandas</h3>
+                       
+                        </div>
+                        <div className="slide">
+                            <img src="https://numpy.org/images/logo.svg" alt="8"/>
+                         
+                            <h3>Numpy</h3>
+                       
+                        </div>
+                        <div className="slide">
+                            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="8"/>
+                         
+                            <h3>Git</h3>                       
+                        </div>
+                        <div className="slide">
+                            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="8"/>
+                         
+                            <h3>Linux</h3>                       
+                        </div>
                  </div>
             
                 

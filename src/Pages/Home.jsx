@@ -23,7 +23,7 @@ export const Home = () => {
             <Image src={Img}/>
 
               <h1 className="intro">
-                Knack of building application with front and back end oprations.
+              Data science: Turning possibilities into realities with insights.
               </h1>
             </div>
 
@@ -45,11 +45,11 @@ export const Home = () => {
                       steps={[
                         "Ethusiastic Developer ",
                         3000,
-                        "Full Stack Developer",
+                        "Turning data into decisions",
                         3000,
-                        "MERN Developer",
+                        "Data Science",
                         3000,
-                        "React/React Native Developer",
+                        "ML-Devloper",
                         3000,
                       ]}
                     />
@@ -58,7 +58,7 @@ export const Home = () => {
               </div>
 
               <Button _hover={{bg:"teal"}}>
-                <a href="https://drive.google.com/file/d/1XohgQJK_rldJSeH9E1thIxe7eIh-wUm1/view?usp=share_link" target="_blank"><DownloadIcon/></a>
+                <a href="https://drive.google.com/file/d/1n-o81wn7DLC1eGfUKjJb3DqKl5eNlGKs/view?usp=drive_link" target="_blank"><DownloadIcon/></a>
               </Button>
               <Button _hover={{bg:"teal"}}>
                 <a href="tel:7033882318" target="_blank"><CallIcon/></a>
@@ -68,7 +68,7 @@ export const Home = () => {
           <div className="linkdin">
             <Button _hover={{bg:"teal"}}>
 
-              <a href="https://github.com/ranveer79" target="_blank"><GitHubIcon/></a>
+              <a href="https://github.com/veer-debug" target="_blank"><GitHubIcon/></a>
             </Button>
             <Button _hover={{bg:"teal"}} className="linkdinid">
               <a href="https://www.linkedin.com/in/ranveer-kumar-12050a247/" target="_blank"><LinkedInIcon/></a>
@@ -79,7 +79,7 @@ export const Home = () => {
          
             <EmailIcon fontSize="medium" />
           </a>
-          <a href="https://www.facebook.com/" target="_blank">
+          <a href="https://www.facebook.com/profile.php?id=100021945492319" target="_blank">
             <FacebookIcon fontSize="medium" />
           </a>
         

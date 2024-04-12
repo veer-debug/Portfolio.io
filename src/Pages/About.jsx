@@ -15,14 +15,8 @@ export const About = () => {
         </div>
           <div className="text">
             <h3>
-            Enthusiastic and innovative machine learning developer with hands-on
-            experience in diverse frameworks like TensorFlow and PyTorch. 
-            Specialized in creating impactful solutions for applications 
-            such as image recognition and natural language processing. 
-            Keen on staying abreast of cutting-edge technologies to drive advancements in AI. 
-            Demonstrated commitment to excellence through successful projects.
-            Eager to contribute this expertise and passion for innovation to a 
-            forward-thinking organization, dedicated to collaborative growth.
+            I am Ranveer Kumar, a dedicated Data Science enthusiast with a strong foundation in mathematics and computer science. Proficient in Python, SQL, and a range of data analysis tools, I have hands-on experience in data cleaning, exploration, and applying machine learning algorithms.
+With internships at Alphanumeric ideas, I've worked on diverse projects, from web scraping and predictive modeling to AI-driven business solutions. I've also developed end-to-end projects like a Movie Recommender System and Email Classification, showcasing my skills in libraries like Numpy, Pandas, and Sk-Learn. My passion for continuous learning is evident through certifications and participation in advanced programs.
             </h3>
           </div>
         </div>
