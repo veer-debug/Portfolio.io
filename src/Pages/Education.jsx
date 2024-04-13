@@ -34,7 +34,7 @@ export const Education = () => {
               <Fade right>
                 <div>
                   <img
-                    src="http://sadhnadevividyapith.in/uploads/images/logo.png"
+                    src="https://www.myscoolserver.com/wp-content/uploads/2016/06/CBSE-color-logo.jpg"
                     alt=""
                   />
                   <div className="ebox">
