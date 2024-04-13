@@ -76,18 +76,17 @@ export default function Contactelement() {
       columns={{ base: 1, sm: 1, md: 2, lg: 2 }}
       boxShadow={"2xl"}
       gap={0}
-      width="90%"
-    
+      width="90%"    
       margin="auto"
       padding ="40px"
       borderRadius="lg"
     >
       <Box   borderRadius="lg">
-        <Box m={8}  >
+        <Box m={8} mt={"0"} >
           <form onSubmit={sendEmail} style={{width:"100%",boxShadow:"none"}}  ref={form}>
          
               <FormLabel>Your Name</FormLabel>
-              <InputGroup borderColor="#E0E1E7">
+              <InputGroup borderColor="#E0E1E7" mb={"5"}>
                 <InputLeftElement
                   pointerEvents="none"
                   children={<BsPerson color="gray.800" />}
@@ -97,7 +96,7 @@ export default function Contactelement() {
             
           
               <FormLabel>Mail</FormLabel>
-              <InputGroup borderColor="#E0E1E7">
+              <InputGroup borderColor="#E0E1E7" mb={"5"}>
                 <InputLeftElement
                   pointerEvents="none"
                   children={<MdOutlineEmail color="gray.800" />}
@@ -114,6 +113,7 @@ export default function Contactelement() {
                 }}
                 placeholder="message"
                 name="message"
+                mb={"5"}
               />
          
             
