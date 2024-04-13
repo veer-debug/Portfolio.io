@@ -50,6 +50,7 @@ export const Projectelement = () => {
       netlify: "https://github.com/veer-debug/email-spam-detection.git",
       github: "https://github.com/veer-debug/email-spam-detection.git"
     },
+    
 
 
   ]
@@ -119,11 +120,11 @@ export const Projectelement = () => {
             //     </Box>
             //   </Box>
             // </Center>
-            <Box w="full" borderWidth="1px" rounded="md" overflow="hidden" boxShadow={'2xl'} minH={500} key={el.name}>
+            <Box w="100%" borderWidth="3px" rounded="2xl" overflow="hidden" boxShadow={'2xl'} minH={600} key={el.name}>
               <Image
                 src={el.imge}
                 alt="Project Image"
-                h="120px"
+                h="200px"
                 w="100%"
                 objectFit="cover"
               />
@@ -141,9 +142,9 @@ export const Projectelement = () => {
                     }}
                   />
                 </Flex>
-              <Box p="4">
+              <Box p="4" >
                 <Flex align="center" justify={"center"}>
-                <Heading fontSize={'xl'} fontWeight={500} fontFamily={'body'}>
+                <Heading fontSize={'2xl'} fontWeight={500} fontFamily={'body'}>
                       {el.name}
                 </Heading>
                 <ArrowOutwardIcon />
@@ -162,12 +163,14 @@ export const Projectelement = () => {
                 </Flex>
                   <Button
                     mt="4"
-                    mr={"5"}
+                    mr={"10"}
                     w="30%"
-                    rounded="md"
+                    rounded="xl"
                     bg="#1976d2"
                     px="2"
                     py="1.5"
+                    // roundedTop='xl'
+                    // roundedBottom='xl'
                     fontSize="sm"
                     fontWeight="semibold"
                     color="white"
@@ -177,9 +180,9 @@ export const Projectelement = () => {
                   </Button>
                   <Button
                     mt="4"
-                    ml={"5"}
+                    ml={"10"}
                     w="30%"
-                    rounded="md"
+                    rounded="xl"
                     bg="#1976d2"
                     px="2"
                     py="1.5"
