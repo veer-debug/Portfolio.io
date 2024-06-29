@@ -22,6 +22,15 @@ import { Hidden } from "@mui/material";
 
 export const Projectelement = () => {
   let data = [
+     {
+      imge: "https://github.com/veer-debug/music/blob/main/movie.png?raw=true",
+      image: "https://cdn-icons-png.flaticon.com/512/2809/2809590.png",
+      name: "Movie Recommender System",
+      description: " Introducing our Content-Based Movie Recommender System, a sophisticated end-to-end machine learning project with a GUI web application. Trained on a dataset of 5000 movies, our system utilizes distance vector algorithms to recommend personalized movies based on cosine similarity. Explore tailored entertainment with precision and efficiency.",
+      tool: ["Python" , "Flask",  "CSS" , "HTML" , "Sk-Learn" , "Numpy" , "Pandas" ],
+      netlify: "https://github.com/veer-debug/Movie_Recommender_System.git",
+      github: "https://github.com/veer-debug/Movie_Recommender_System.git"
+    },
     {
       imge: "https://github.com/veer-debug/music/blob/main/movie.png?raw=true",
       image: "https://cdn-icons-png.flaticon.com/512/2809/2809590.png",
@@ -64,62 +73,7 @@ export const Projectelement = () => {
       <div className="project-div">
         {
           data.map((el) => (
-            // <Center py={6}>
-            //   <Box
-            //     w={'full'}
-            //     boxShadow={'2xl'}
-            //     rounded={'md'}
-            //     overflow={'hidden'}>
-            //     <Image
-            //       h={'120px'}
-            //       w={'full'}
-            //       src={
-            //         el.imge
-            //       }
-            //       objectFit={'cover'}
-            //     />
-            //     <Flex justify={'center'} mt={-12}>
-            //       <Avatar
-            //         size={'xl'}
-            //         backgroundSize="cover"
-            //         src={
-            //           el.image
-            //         }
-
-            //         alt={'Author'}
-            //         css={{
-            //           border: '2px solid white',
-            //         }}
-            //       />
-            //     </Flex>
-
-            //     <Box p={4}>
-            //       <Stack spacing={1} textAlign="justify" align={'center'} height="80px"    >
-            //         <Heading fontSize={'2xl'} fontWeight={500} fontFamily={'body'}>
-            //           {el.name}
-            //         </Heading>
-            //         <Text color={'gray.500'}>{el.description}</Text>
-
-            //       </Stack>
-            //       <Stack textAlign="justify" height="70px" mb="10px">
-            //         <Text fontWeight="bold"><span className="tool">TOOLS : </span >{el.tool}</Text>
-            //       </Stack>
-
-
-            //       <Flex justifyContent="space-between">
-            //         <Button
-            //           bg="#1976d2"
-            //           color="white"
-            //           _hover={{ backgroundColor: "teal" }}
-            //         >
-            //           <a href={el.netlify} target="_blank"> <ArrowOutwardIcon /></a>
-            //         </Button>
-            //         <Button color="white" bg="#1976d2" _hover={{ backgroundColor: "teal" }}><a href={el.github} target="_blank"><GitHubIcon /></a></Button>
-            //       </Flex>
-
-            //     </Box>
-            //   </Box>
-            // </Center>
+           
             <Box w="100%" borderWidth="3px" rounded="2xl" overflow="hidden" boxShadow={'2xl'} minH={600} key={el.name}>
               <Image
                 src={el.imge}
