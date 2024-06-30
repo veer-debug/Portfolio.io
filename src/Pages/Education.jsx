@@ -45,6 +45,20 @@ export const Education = () => {
                   </div>
                 </div>
               </Fade>
+              <Fade right>
+                <div>
+                  <img
+                    src="https://www.cbse.gov.in/images//logo.png"
+                    alt=""
+                  />
+                  <div className="ebox">
+                    <h2>Matric, Sadhana Devi Vidyapith </h2>
+                    <h2>
+                      <span>Mar 2017 - Mar 2018</span> | Bihar , India
+                    </h2>
+                  </div>
+                </div>
+              </Fade>
             </div>
 
             <img
