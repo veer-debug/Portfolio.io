@@ -26,7 +26,7 @@ export const Projectelement = () => {
       imge: "https://github.com/veer-debug/music/blob/main/Realstate.png?raw=true",
       image: "https://cdn-icons-png.flaticon.com/128/1083/1083968.png",
       name: "Match My Mansion",
-      description: " Match My Mansion is a web-based platform that revolutionizes property search using advanced machine learning. It offers accurate price predictions and personalized property recommendations based on factors like price, location, and type. The platform simplifies the real estate search process, making it efficient and user-centric.",
+      description: "Match My Mansion is a cutting-edge web platform that transforms the property search experience with advanced machine learning. It delivers accurate price predictions and personalized property recommendations by analyzing factors such as price, location, and property type. By combining sophisticated regression models and recommendation algorithms, the platform simplifies and enhances the real estate search process, making it more efficient, tailored, and user-friendly.",
       tool: ["Python" , "Flask",  "CSS" , "HTML" , "Sk-Learn" , "Numpy" , "Pandas" ],
       netlify: "https://github.com/veer-debug/MatchMyMansion.git",
       github: "https://github.com/veer-debug/MatchMyMansion.git"
