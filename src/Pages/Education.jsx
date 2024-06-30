@@ -34,7 +34,7 @@ export const Education = () => {
               <Fade right>
                 <div>
                   <img
-                    src="hhttp://sadhnadevividyapith.in/uploads/images/logo.png"
+                    src="https://lh6.googleusercontent.com/proxy/R1p5SAqEmXle_uSur3elbIHS291uoe9JsopMiLJFh10puWbSQy4C0zoUSBAxKtX9EBUoOwt20dTYQ9X5XpuFcknFDVGYdQ"
                     alt=""
                   />
                   <div className="ebox">
