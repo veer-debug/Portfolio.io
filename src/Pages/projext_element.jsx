@@ -23,13 +23,13 @@ import { Hidden } from "@mui/material";
 export const Projectelement = () => {
   let data = [
      {
-      imge: "https://github.com/veer-debug/music/blob/main/movie.png?raw=true",
-      image: "https://cdn-icons-png.flaticon.com/512/2809/2809590.png",
-      name: "Movie Recommender System",
-      description: " Introducing our Content-Based Movie Recommender System, a sophisticated end-to-end machine learning project with a GUI web application. Trained on a dataset of 5000 movies, our system utilizes distance vector algorithms to recommend personalized movies based on cosine similarity. Explore tailored entertainment with precision and efficiency.",
+      imge: "https://github.com/veer-debug/music/blob/main/Realstate.png?raw=true",
+      image: "https://cdn-icons-png.flaticon.com/128/1083/1083968.png",
+      name: "Match My Mansion",
+      description: " Match My Mansion is a machine learning-powered platform offering accurate price predictions and personalized property recommendations based on price, location, and type, revolutionizing the real estate search process.",
       tool: ["Python" , "Flask",  "CSS" , "HTML" , "Sk-Learn" , "Numpy" , "Pandas" ],
-      netlify: "https://github.com/veer-debug/Movie_Recommender_System.git",
-      github: "https://github.com/veer-debug/Movie_Recommender_System.git"
+      netlify: "https://github.com/veer-debug/MatchMyMansion.git",
+      github: "https://github.com/veer-debug/MatchMyMansion.git"
     },
     {
       imge: "https://github.com/veer-debug/music/blob/main/movie.png?raw=true",
