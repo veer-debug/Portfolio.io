@@ -64,28 +64,28 @@ export const Projectelement = () => {
       imge: "https://github.com/veer-debug/music/blob/main/job-scout.jpg?raw=true",
       image: "https://www.svgrepo.com/show/312566/man-teacher.svg",
       name: "Job-Scout",
-      description: " Introducing Job Scout – a dynamic platform that automates daily job updates from top companies like Google and Microsoft. With real-time access to the latest openings, Job Scout ensures you never miss an opportunity. Simplify your job search today!",
+      description: " Introducing Job Scout  a dynamic platform that automates daily job updates from top companies like Google and Microsoft. With real-time access to the latest openings, Job Scout ensures you never miss an opportunity. Simplify your job search today!",
       tool: ["Python", "Flask", "selaniam", "Numpy", "Pandas","MySql"],
       netlify: "https://github.com/veer-debug/JobScout.git",
       github: "https://github.com/veer-debug/JobScout.git"
     },
     {
-      imge: "https://repository-images.githubusercontent.com/755525673/f7566402-2c67-4e77-a162-ce4125d791b0",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTctYsg9mHiOAV0_PFClrrK9zvKdmOKbKUa6CHZrm5cdw&s",
-      name: "Email Spam Classifier",
-      description: " Introducing our Spam Classifier, powered by the Naive Bayes algorithm. This end-to-end machine learning project features a user-friendly GUI web application. Trained on extensive data, our system accurately detects and classifies spam messages, ensuring a clutter-free inbox experience. Say hello to efficient email management with ease.",
-      tool: ["Python", "Streamlit", "Sk-Learn", "Numpy", "Pandas"],
-      netlify: "https://github.com/veer-debug/email-spam-detection.git",
-      github: "https://github.com/veer-debug/email-spam-detection.git"
+      imge: "https://github.com/veer-debug/music/blob/main/chat.jpg?raw=true",
+      image: "https://www.svgrepo.com/show/289851/chat.svg",
+      name: "Chat With Website",
+      description: " Chat with Website  An interactive app that scrapes, cleans, and processes website content, transforming it into a knowledge source. Users can ask questions and get instant, accurate answers using Hugging Face models.",
+      tool: ["Python", 'Gen AI',"Hugging Face" ,'Transformar','Flask',"Streamlit", "Numpy", "Pandas"],
+      netlify: "https://github.com/veer-debug/chat-with-me.git",
+      github: "https://github.com/veer-debug/chat-with-me.git"
     },
     {
-      imge: "https://repository-images.githubusercontent.com/755525673/f7566402-2c67-4e77-a162-ce4125d791b0",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTctYsg9mHiOAV0_PFClrrK9zvKdmOKbKUa6CHZrm5cdw&s",
-      name: "Email Spam Classifier",
-      description: " Introducing our Spam Classifier, powered by the Naive Bayes algorithm. This end-to-end machine learning project features a user-friendly GUI web application. Trained on extensive data, our system accurately detects and classifies spam messages, ensuring a clutter-free inbox experience. Say hello to efficient email management with ease.",
-      tool: ["Python", "Streamlit", "Sk-Learn", "Numpy", "Pandas"],
-      netlify: "https://github.com/veer-debug/email-spam-detection.git",
-      github: "https://github.com/veer-debug/email-spam-detection.git"
+      imge: "https://github.com/veer-debug/music/blob/main/assisment.jpg?raw=true",
+      image: "https://www.svgrepo.com/show/493465/male-doctor-with-cross-mark.svg",
+      name: "Automated Assignment Grading ",
+      description: " Automated Assignment Grading  A smart system that streamlines the evaluation process by automatically grading assignments. Using advanced algorithms and machine learning, it ensures accurate, consistent, and efficient assessment, saving valuable time for educators.",
+      tool: ["Python", "OpenAI", "Gen Ai", "Numpy", "Pandas","mySql"],
+      netlify: "https://github.com/veer-debug/Automate-assisment-review.git",
+      github: "https://github.com/veer-debug/Automate-assisment-review.git"
     },
     
 
