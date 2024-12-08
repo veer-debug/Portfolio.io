@@ -62,7 +62,7 @@ export const Projectelement = () => {
     // start 
     {
       imge: "https://github.com/veer-debug/music/blob/main/job-scout.jpg?raw=true",
-      image: "https://www.flaticon.com/free-icon/businessman_2942821?term=jobs&page=1&position=4&origin=search&related_id=2942821",
+      image: "https://www.svgrepo.com/show/312566/man-teacher.svg",
       name: "Job-Scout",
       description: " Introducing Job Scout – a dynamic platform that automates daily job updates from top companies like Google and Microsoft. With real-time access to the latest openings, Job Scout ensures you never miss an opportunity. Simplify your job search today!",
       tool: ["Python", "Flask", "selaniam", "Numpy", "Pandas","MySql"],
