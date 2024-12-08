@@ -59,6 +59,34 @@ export const Projectelement = () => {
       netlify: "https://github.com/veer-debug/email-spam-detection.git",
       github: "https://github.com/veer-debug/email-spam-detection.git"
     },
+    // start 
+    {
+      imge: "https://github.com/veer-debug/music/blob/main/job-scout.jpg?raw=true",
+      image: "https://www.flaticon.com/free-icon/businessman_2942821?term=jobs&page=1&position=4&origin=search&related_id=2942821",
+      name: "Job-Scout",
+      description: " Introducing Job Scout – a dynamic platform that automates daily job updates from top companies like Google and Microsoft. With real-time access to the latest openings, Job Scout ensures you never miss an opportunity. Simplify your job search today!",
+      tool: ["Python", "Flask", "selaniam", "Numpy", "Pandas","MySql"],
+      netlify: "https://github.com/veer-debug/JobScout.git",
+      github: "https://github.com/veer-debug/JobScout.git"
+    },
+    {
+      imge: "https://repository-images.githubusercontent.com/755525673/f7566402-2c67-4e77-a162-ce4125d791b0",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTctYsg9mHiOAV0_PFClrrK9zvKdmOKbKUa6CHZrm5cdw&s",
+      name: "Email Spam Classifier",
+      description: " Introducing our Spam Classifier, powered by the Naive Bayes algorithm. This end-to-end machine learning project features a user-friendly GUI web application. Trained on extensive data, our system accurately detects and classifies spam messages, ensuring a clutter-free inbox experience. Say hello to efficient email management with ease.",
+      tool: ["Python", "Streamlit", "Sk-Learn", "Numpy", "Pandas"],
+      netlify: "https://github.com/veer-debug/email-spam-detection.git",
+      github: "https://github.com/veer-debug/email-spam-detection.git"
+    },
+    {
+      imge: "https://repository-images.githubusercontent.com/755525673/f7566402-2c67-4e77-a162-ce4125d791b0",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTctYsg9mHiOAV0_PFClrrK9zvKdmOKbKUa6CHZrm5cdw&s",
+      name: "Email Spam Classifier",
+      description: " Introducing our Spam Classifier, powered by the Naive Bayes algorithm. This end-to-end machine learning project features a user-friendly GUI web application. Trained on extensive data, our system accurately detects and classifies spam messages, ensuring a clutter-free inbox experience. Say hello to efficient email management with ease.",
+      tool: ["Python", "Streamlit", "Sk-Learn", "Numpy", "Pandas"],
+      netlify: "https://github.com/veer-debug/email-spam-detection.git",
+      github: "https://github.com/veer-debug/email-spam-detection.git"
+    },
     
 
 
