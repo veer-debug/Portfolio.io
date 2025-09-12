@@ -12,7 +12,7 @@ import DownloadIcon from '@mui/icons-material/Download';
  
 import InstagramIcon from '@mui/icons-material/Instagram';
 import EmailIcon from '@mui/icons-material/Email';
-import Img from "../utils/prifile.png";
+import Img from "../utils/Ranveer_img.png";
 export const Home = () => {
   return (
     <div>
